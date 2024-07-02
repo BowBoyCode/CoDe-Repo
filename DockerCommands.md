@@ -141,4 +141,12 @@ Certainly! Here is a list of commonly used Docker commands along with a brief ex
     docker exec -it <container_id> /bin/bash
     ```
 
-These commands should cover most of the basic and intermediate operations you will need to manage Docker containers, images, volumes, and networks. If you need more specific commands or detailed explanations, feel free to ask!
+    ### Docker Tagging
+24. **Tag a container**
+    ```bash
+    docker exec -it <container_id> <command>
+    ```
+    Example:
+    ```bash
+    docker exec -it <container_id> /bin/bash
+    ```
