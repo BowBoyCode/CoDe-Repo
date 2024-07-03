@@ -14,6 +14,6 @@ Email at example@example.com
 
 ```mermaid
 pie
-"Movies" : 80
+"Learning to Code" : 80
 "TV shows" : 20
 ```
