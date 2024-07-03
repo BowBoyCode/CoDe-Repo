@@ -2,10 +2,10 @@ Certainly! Here is a list of commonly used Docker commands along with a brief ex
 
 ### Docker Installation
 1. **Install Docker**
-    ```bash
+    
     sudo apt-get update
     sudo apt-get install docker-ce docker-ce-cli containerd.io
-    ```
+    
 
 ### Docker Basics
 2. **Check Docker version**
