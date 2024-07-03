@@ -1,1 +1,1 @@
-$\color{Yellow}{Welcome\ to\ BowBoyCode\ fox\ .\}$
+$\color{Yellow}{Welcome\ to\ BowBoyCode\ .\}$
