@@ -1,7 +1,7 @@
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+<a href="https://github.com/BowBoyCode/CoDe-Repo#gh-light-mode-only">
   <img src="https://github-readme-stats.vercel.app/api?username=lifeparticle&theme=graywhite&show_icons=true#gh-light-mode-only" width="350"  alt="This image shows a summary of Mahbub Zaman's GitHub statistics."/>
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+<a href="https://github.com/BowBoyCode/CoDe-Repo#gh-dark-mode-only">
   <img src="https://github-readme-stats.vercel.app/api?username=lifeparticle&theme=dark&show_icons=true#gh-dark-mode-only" width="350"  alt="This image shows a summary of Mahbub Zaman's GitHub statistics."/>
 </a>
 
@@ -9,7 +9,9 @@ $\color{Yellow}{Welcome\ to\ BowBoyCoDeRepo\ !\}$
 
 <img src="https://img.shields.io/badge/theultimatemarkdowncheatsheet-brightgreen.svg" />
 
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2> 
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! 
+  
+<!-- <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2> -->
 
 <div align="center" width="50">
 
